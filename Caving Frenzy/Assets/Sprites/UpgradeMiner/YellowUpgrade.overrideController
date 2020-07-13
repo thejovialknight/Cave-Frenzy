@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: YellowUpgrade
+  m_Controller: {fileID: 9100000, guid: 5bd3f9a75cb3060488c02b359e263763, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 049c5c6a1925bce4a96481257e831baa, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cdffa904d2ef3e64fade53df2cc00b3c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e0ed4ab3d9f170740aae6642143a472f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 21939b62df5312a488db539a458c965e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3feedd35f49fdce4bbb18e5462281304, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 202d556d24d4db74992caeac80af8cb6, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c86061ea72643dc429737daa162d00ec, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: da22e3870cdc4194b9d75bc50e37106f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9eab86eacbfe9e64796a30c5b1504b85, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ecd402a4440aad14d9f449a88a579d4b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 40b0e26ca4d27ee4dbc27377a7fc4bbd, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b50e42fe68621d2499b74a658abbc4a5, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: bb35fb33f895ac045b535dc07be67d1e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b86b118ae87ee29429fac516c84456ee, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 048e5a8424b10974c90a17532e82e759, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 344590b87305b2d4ca6d78123378c26e, type: 2}
